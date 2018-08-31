@@ -1,6 +1,6 @@
 <html>
 <head>
-<title></title>
+<title>Currículo</title>
 </head>
 <body>
 
