@@ -1,7 +1,8 @@
-<html>
-<head>
-<title>Currículo</title>
-</head>
+<html lang="pt">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Currículo</title>
+    </head>
 <body>
 
 <h1>Currículo</h1>
